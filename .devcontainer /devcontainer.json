@@ -1,0 +1,10 @@
+{
+    "name": "Testing github codespaces",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
